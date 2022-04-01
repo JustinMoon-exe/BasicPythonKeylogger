@@ -1,5 +1,4 @@
 # BasicPythonKeylogger
-Very Basic Python Keylogger with emailing functionality
 
 Made in Jan 2021
 
